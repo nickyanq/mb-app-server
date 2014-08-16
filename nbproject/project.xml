@@ -3,7 +3,7 @@
     <type>org.netbeans.modules.php.project</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/php-project/1">
-            <name>fdl-server</name>
+            <name>mb-app-server</name>
         </data>
     </configuration>
 </project>
